@@ -65,7 +65,7 @@ Instead of waiting, I completed comprehensive GitHub learning through **Microsof
 **Practice Assessment Results:**
 To validate my knowledge, I completed GitHub Foundation practice assessments, achieving strong results that demonstrate my readiness for the actual certification:
 
-<img src="https://github.com/Csemrkiran/github-campus-expert-application/blob/main/github_foundation_practice_assesment_result.png" alt="GitHub Foundation Practice Assessment Results" width="600">
+<img src="https://github.com/Studev-Kiran/github-campus-expert-application/blob/main/github_foundation_practice_assesment_result.png" alt="GitHub Foundation Practice Assessment Results" width="600">
 
 **Knowledge Areas Covered:**
 - ✅ **Git and GitHub Fundamentals** - Version control, repositories, collaboration
@@ -232,7 +232,7 @@ This collaboration exemplifies the **ethical use of AI tools** in education and 
 
 ## 📞 Connect With Me
 
-- **GitHub**: [@Csemrkiran](https://github.com/Csemrkiran)
+- **GitHub**: [@Studev-Kiran](https://github.com/Studev-Kiran)
 - **Projects**: [SBHPS Website](https://csemrkiran.github.io/SBHPS/) | [MIT FGC Portal](https://mitfgc.notion.site)
 - **Achievements**: [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/kiran-6978/achievements/fm6c99gx)
 
