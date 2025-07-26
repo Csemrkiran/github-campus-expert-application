@@ -47,6 +47,34 @@ University of Mysore oversees **[228 affiliated colleges](https://uni-mysore.ac.
 - **📊 Project Management** - Successfully managing multiple student initiatives
 - **🎓 GitHub Student Developer Pack** - Active utilization of educational benefits
 
+#### 🏆 Microsoft Learn Achievement Badges:
+
+[![GitHub Foundations](https://learn.microsoft.com/api/achievements/share/en-us/Kiran-6978/YE9UUCJR?sharingId=C29A1C24C05CAB59)](https://learn.microsoft.com/api/achievements/share/en-us/Kiran-6978/YE9UUCJR?sharingId=C29A1C24C05CAB59)
+
+[![Introduction to GitHub](https://learn.microsoft.com/api/achievements/share/en-us/Kiran-6978/W2LGCEXN?sharingId=C29A1C24C05CAB59)](https://learn.microsoft.com/api/achievements/share/en-us/Kiran-6978/W2LGCEXN?sharingId=C29A1C24C05CAB59)
+
+[![GitHub Copilot Fundamentals](https://learn.microsoft.com/api/achievements/share/en-us/Kiran-6978/JUVMEDBT?sharingId=C29A1C24C05CAB59)](https://learn.microsoft.com/api/achievements/share/en-us/Kiran-6978/JUVMEDBT?sharingId=C29A1C24C05CAB59)
+
+#### 📋 GitHub Foundation Certification Journey:
+
+I was prepared to pursue the **GitHub Foundation Certification** to strengthen my Campus Expert application. However, due to the exam conductor migration, student discounts were temporarily halted, making the certification financially inaccessible as a student.
+
+**Proactive Alternative Approach:**
+Instead of waiting, I completed comprehensive GitHub learning through **Microsoft Learn's GitHub modules**, achieving verified badges that demonstrate the same core competencies required for the Foundation certification.
+
+**Practice Assessment Results:**
+To validate my knowledge, I completed GitHub Foundation practice assessments, achieving strong results that demonstrate my readiness for the actual certification:
+
+<img src="https://github.com/Csemrkiran/github-campus-expert-application/blob/main/github_foundation_practice_assesment_result.png" alt="GitHub Foundation Practice Assessment Results" width="600">
+
+**Knowledge Areas Covered:**
+- ✅ **Git and GitHub Fundamentals** - Version control, repositories, collaboration
+- ✅ **GitHub Features** - Issues, pull requests, actions, pages
+- ✅ **Best Practices** - Workflow optimization, security, community guidelines
+- ✅ **GitHub Copilot** - AI-assisted development and ethical usage
+
+> **Commitment to Certification:** Once student discounts are restored, I plan to complete the official GitHub Foundation Certification to formalize my demonstrated knowledge.
+
 ---
 
 ## 📋 My Campus Expert Action Plan
