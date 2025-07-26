@@ -29,7 +29,7 @@ University of Mysore oversees **[228 affiliated colleges](https://uni-mysore.ac.
 ## 💻 My Background & Proven Impact
 
 ### Real-World Projects:
-- **🌟 [SBHPS School Website](https://csemrkiran.github.io/SBHPS/)** - Developed and deployed a complete website for an underprivileged school, hosted on GitHub Pages
+- **🌟 [SBHPS School Website](https://studev-kiran.github.io/SBHPS/)** - Developed and deployed a complete website for an underprivileged school, hosted on GitHub Pages
   - *Impact*: Bringing digital presence to underserved educational institutions
   - *Tech Stack*: HTML, CSS, JavaScript, GitHub Pages deployment
 - **📚 [MIT FGC Class Management Portal](https://mitfgc.notion.site)** - Created a comprehensive Notion workspace (utilizing GitHub Student Developer Pack benefits) as Class Representative to streamline college operations
@@ -147,7 +147,7 @@ By establishing GitHub Campus Expert at MIT FGC, I aim to create a **ripple effe
 #### 🗓️ **GitHub Account History (1+ Year Requirement)**
 - **Account Creation**: Active GitHub user since [Account creation date - check your GitHub profile]
 - **Consistent Activity**: Regular commits and repository management
-- **Project Portfolio**: Multiple repositories including [SBHPS website](https://csemrkiran.github.io/SBHPS/)
+- **Project Portfolio**: Multiple repositories including [SBHPS website](https://studev-kiran.github.io/SBHPS/)
 - **Learning Journey**: Documented progression from basic commits to complex deployments
 
 #### 🎓 **GitHub Student Developer Pack (Active User)**
@@ -179,7 +179,7 @@ By establishing GitHub Campus Expert at MIT FGC, I aim to create a **ripple effe
 - **Mentoring**: Educating fellow students about technology opportunities
 
 ### 📈 GitHub Activity Evidence:
-- **Live Projects**: [SBHPS School Website](https://csemrkiran.github.io/SBHPS/) hosted on GitHub Pages
+- **Live Projects**: [SBHPS School Website](https://studev-kiran.github.io/SBHPS/) hosted on GitHub Pages
 - **Commit History**: Regular contributions and project development
 - **Repository Structure**: Well-organized, documented projects
 - **Collaboration**: Experience with pull requests, issues, and project management
@@ -201,7 +201,7 @@ This application was developed through a collaborative process with **GitHub Cop
 
 #### 🎯 My Authentic Contributions:
 - **All personal experiences** - MIT FGC background, Rotaract leadership, class representative role
-- **Real projects** - [SBHPS website](https://csemrkiran.github.io/SBHPS/) and [MIT FGC portal](https://mitfgc.notion.site) are 100% my work
+- **Real projects** - [SBHPS website](https://studev-kiran.github.io/SBHPS/) and [MIT FGC portal](https://mitfgc.notion.site) are 100% my work
 - **Genuine passion** - My vision for breaking barriers in Karnataka tech education
 - **Strategic insights** - Understanding of University of Mysore's 228-college ecosystem
 - **Leadership evidence** - Verified roles and Microsoft Learn achievements
@@ -233,7 +233,7 @@ This collaboration exemplifies the **ethical use of AI tools** in education and 
 ## 📞 Connect With Me
 
 - **GitHub**: [@Studev-Kiran](https://github.com/Studev-Kiran)
-- **Projects**: [SBHPS Website](https://csemrkiran.github.io/SBHPS/) | [MIT FGC Portal](https://mitfgc.notion.site)
+- **Projects**: [SBHPS Website](https://studev-kiran.github.io/SBHPS/) | [MIT FGC Portal](https://mitfgc.notion.site)
 - **Achievements**: [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/kiran-6978/achievements/fm6c99gx)
 
 ---
