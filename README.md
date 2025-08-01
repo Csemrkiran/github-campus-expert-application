@@ -145,7 +145,7 @@ By establishing GitHub Campus Expert at MIT FGC, I aim to create a **ripple effe
 ### Meeting All Required Criteria:
 
 #### 🗓️ **GitHub Account History (1+ Year Requirement)**
-- **Account Creation**: Active GitHub user since [Account creation date - check your GitHub profile]
+- **Account Creation**: Active GitHub user since **December 21, 2023** (1+ year requirement met)
 - **Consistent Activity**: Regular commits and repository management
 - **Project Portfolio**: Multiple repositories including [SBHPS website](https://studev-kiran.github.io/SBHPS/)
 - **Learning Journey**: Documented progression from basic commits to complex deployments
