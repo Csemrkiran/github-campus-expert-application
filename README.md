@@ -29,7 +29,7 @@ University of Mysore oversees **[228 affiliated colleges](https://uni-mysore.ac.
 ## 💻 My Background & Proven Impact
 
 ### Real-World Projects:
-- **🌟 [SBHPS School Website](https://studev-kiran.github.io/SBHPS/)** - Developed and deployed a complete website for an underprivileged school, hosted on GitHub Pages
+- **🌟 [SBHPS School Website](https://studevkiran.github.io/SBHPS/)** - Developed and deployed a complete website for an underprivileged school, hosted on GitHub Pages
   - *Impact*: Bringing digital presence to underserved educational institutions
   - *Tech Stack*: HTML, CSS, JavaScript, GitHub Pages deployment
 - **📚 [MIT FGC Class Management Portal](https://mitfgc.notion.site)** - Created a comprehensive Notion workspace (utilizing GitHub Student Developer Pack benefits) as Class Representative to streamline college operations
@@ -65,7 +65,7 @@ Instead of waiting, I completed comprehensive GitHub learning through **Microsof
 **Practice Assessment Results:**
 To validate my knowledge, I completed GitHub Foundation practice assessments, achieving strong results that demonstrate my readiness for the actual certification:
 
-<img src="https://github.com/Studev-Kiran/github-campus-expert-application/blob/main/github_foundation_practice_assesment_result.png" alt="GitHub Foundation Practice Assessment Results" width="600">
+<img src="https://github.com/StudevKiran/github-campus-expert-application/blob/main/github_foundation_practice_assesment_result.png" alt="GitHub Foundation Practice Assessment Results" width="600">
 
 **Knowledge Areas Covered:**
 - ✅ **Git and GitHub Fundamentals** - Version control, repositories, collaboration
@@ -147,7 +147,7 @@ By establishing GitHub Campus Expert at MIT FGC, I aim to create a **ripple effe
 #### 🗓️ **GitHub Account History (1+ Year Requirement)**
 - **Account Creation**: Active GitHub user since **December 21, 2023** (1+ year requirement met)
 - **Consistent Activity**: Regular commits and repository management
-- **Project Portfolio**: Multiple repositories including [SBHPS website](https://studev-kiran.github.io/SBHPS/)
+- **Project Portfolio**: Multiple repositories including [SBHPS website](https://studevkiran.github.io/SBHPS/)
 - **Learning Journey**: Documented progression from basic commits to complex deployments
 
 #### 🎓 **GitHub Student Developer Pack (Active User)**
@@ -179,7 +179,7 @@ By establishing GitHub Campus Expert at MIT FGC, I aim to create a **ripple effe
 - **Mentoring**: Educating fellow students about technology opportunities
 
 ### 📈 GitHub Activity Evidence:
-- **Live Projects**: [SBHPS School Website](https://studev-kiran.github.io/SBHPS/) hosted on GitHub Pages
+- **Live Projects**: [SBHPS School Website](https://studevkiran.github.io/SBHPS/) hosted on GitHub Pages
 - **Commit History**: Regular contributions and project development
 - **Repository Structure**: Well-organized, documented projects
 - **Collaboration**: Experience with pull requests, issues, and project management
@@ -196,8 +196,8 @@ By establishing GitHub Campus Expert at MIT FGC, I aim to create a **ripple effe
 
 ## 📞 Connect With Me
 
-- **GitHub**: [@Studev-Kiran](https://github.com/Studev-Kiran)
-- **Projects**: [SBHPS Website](https://studev-kiran.github.io/SBHPS/) | [MIT FGC Portal](https://mitfgc.notion.site)
+- **GitHub**: [@Studev-Kiran](https://github.com/StudevKiran)
+- **Projects**: [SBHPS Website](https://studevkiran.github.io/SBHPS/) | [MIT FGC Portal](https://mitfgc.notion.site)
 - **Achievements**: [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/kiran-6978/achievements/fm6c99gx)
 
 ---
